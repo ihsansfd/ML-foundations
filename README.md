@@ -5,17 +5,17 @@ This repo is home to the code that accompanies Jon Krohn's *Machine Learning Fou
 There are eight subjects in the curriculum, organized into four subject areas. See the "Machine Learning House" section below for detail on why these are the essential foundational subject areas: 
 
 * **Linear Algebra**
-   * 1: [Intro to Linear Algebra](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
-   * 2: [Linear Algebra II: Matrix Operations](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb)
+   * 1: [Intro to Linear Algebra](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
+   * 2: [Linear Algebra II: Matrix Operations](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb)
 * **Calculus**
-   * 3: [Calculus I: Limits & Derivatives](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/3-calculus-i.ipynb)
-   * 4: [Calculus II: Partial Derivatives & Integrals](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/4-calculus-ii.ipynb)
+   * 3: [Calculus I: Limits & Derivatives](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/3-calculus-i.ipynb)
+   * 4: [Calculus II: Partial Derivatives & Integrals](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/4-calculus-ii.ipynb)
 * **Probability and Statistics**
-   * 5: [Probability & Information Theory](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb)
-   * 6: [Intro to Statistics](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb)
+   * 5: [Probability & Information Theory](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/5-probability.ipynb)
+   * 6: [Intro to Statistics](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/6-statistics.ipynb)
 * **Computer Science**
-   * 7: [Algorithms & Data Structures](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/7-algos-and-data-structures.ipynb)
-   * 8: [Optimization](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/8-optimization.ipynb)
+   * 7: [Algorithms & Data Structures](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/7-algos-and-data-structures.ipynb)
+   * 8: [Optimization](https://github.com/ihsansfd/ML-foundations/blob/master/notebooks/8-optimization.ipynb)
    
 Later subjects build upon content from earlier subjects, so the recommended approach is to progress through the eight subjects in the order provided. That said, you're welcome to pick and choose individual subjects based on your interest or existing familiarity with the material. In particular, each of the four subject areas are fairly independent so could be approached separately. 
 
